@@ -8,5 +8,8 @@ We're using a dataset that has been collected from the Spotify API and contains 
 
 ## Business Questions
 
-- _Are Spotify’s audio features able to identify “similar songs”, as defined by humanly detectable criteria?_ When you listen to two rock ballads, two operas or two drum & bass songs, you identify them as similar songs. Are these similarities detectable using the audio features from Spotify? 
-- _Is K-Means a good method to create playlists?_ Would you stick with this algorithm moving forward, or explore other methods to create playlists?
+- _Are Spotify’s audio features able to identify “similar songs”, as defined by humanly detectable criteria?_ 
+When you listen to two rock ballads, two operas or two drum & bass songs, you identify them as similar songs. Are these similarities detectable using the audio features from Spotify? 
+
+- _Is K-Means a good method to create playlists?_ 
+Would you stick with this algorithm moving forward, or explore other methods to create playlists?
